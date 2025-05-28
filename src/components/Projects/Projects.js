@@ -112,7 +112,7 @@ function Projects() {
               imgPath={Flight}
               isBlog={false}
               title="Flight Plan Analysis(Big data Analytics)"
-              description="This project is a website which deploys an ensemble method combining five deep learning models for a complex diagnosis task of Cervical Cancer, achieving 99.86% accuracy. The models excel in detecting subtle patterns and enhancing diagnostic capabilities, making them ideal for medical imaging tasks. Future work will focus on optimizing ensemble strategies and real-time prediction systems for broader applications"
+              description="Led a comprehensive analysis of over 2 million U.S. flight records from January to April 2022 to identify patterns in delays and cancellations. Utilized Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn for data preprocessing and visualization. Developed predictive models using machine learning techniques, including neural networks and decision trees, to forecast arrival delays and classify cancellation reasons. Presented findings through interactive visualizations, providing actionable insights for airline operations and passenger planning."
               ghLink="https://github.com/Kartik-Patil/Flight-Plan-Analysis-Big-Data-Analytics-"
               //demoLink="https://www.youtube.com/watch?v=bAE4OyrV7o0"
                    
