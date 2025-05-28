@@ -9,6 +9,7 @@ import chatify from "../../Assets/Projects/chatify.png";
 import suicide from "../../Assets/Projects/suicide.png";
 import bitsOfCode from "../../Assets/Projects/blog.png";
 import cervicare from "../../Assets/Projects/cervicare.png"
+import Flight from "../../Assets/Projects/Flight.jpg"
 
 function Projects() {
   return (
@@ -102,6 +103,18 @@ function Projects() {
               description="This project is a website which deploys an ensemble method combining five deep learning models for a complex diagnosis task of Cervical Cancer, achieving 99.86% accuracy. The models excel in detecting subtle patterns and enhancing diagnostic capabilities, making them ideal for medical imaging tasks. Future work will focus on optimizing ensemble strategies and real-time prediction systems for broader applications"
               ghLink="https://github.com/Kartik-Patil/Cervical_Cancer_Web"
               demoLink="https://www.youtube.com/watch?v=bAE4OyrV7o0"
+                   
+            />
+          </Col>
+
+                    <Col md={4} className="project-card">
+            <ProjectCard
+              imgPath={Flight}
+              isBlog={false}
+              title="Flight Plan Analysis(Big data Analytics)"
+              description="This project is a website which deploys an ensemble method combining five deep learning models for a complex diagnosis task of Cervical Cancer, achieving 99.86% accuracy. The models excel in detecting subtle patterns and enhancing diagnostic capabilities, making them ideal for medical imaging tasks. Future work will focus on optimizing ensemble strategies and real-time prediction systems for broader applications"
+              ghLink="https://github.com/Kartik-Patil/Flight-Plan-Analysis-Big-Data-Analytics-"
+              //demoLink="https://www.youtube.com/watch?v=bAE4OyrV7o0"
                    
             />
           </Col>
